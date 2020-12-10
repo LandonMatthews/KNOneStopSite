@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+h1 {
+  background-color: #f56e77;
+  border: 5px solid #70bccf;
+}
+body {
+  background-color: #bfc949;
+  background-image: url("tiles.jpg");
+}
+p {
+  border: 5px solid #f56e77;
+  padding: 5px;
+  background-color: #70bccf;
+  fill-opacity: #3d85c6ff;
+}
+a {
+  color: #000000;
+  border: 10px solid #f56e77;
+  background-color: #f56e77;
+}
+/*these are color codes we've stored away for now.
+#71d2eb  #88dcf2 
